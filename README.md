@@ -1,2 +1,2 @@
 # KitchenToss
-Arcade game for Android published Summer of 2018
+Arcade game for android published summer of 2018
